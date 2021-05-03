@@ -1,0 +1,4 @@
+#Sun May 02 16:04:11 PKT 2021
+base.0=E\:\\Check project\\real_services\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
